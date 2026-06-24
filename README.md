@@ -1,2 +1,33 @@
-# cloud-based-Smart-Manufacturing-Operations-Control-Tower
-A shorter version:  > Built a Smart Manufacturing Operations Control Tower using AWS S3, Glue, Athena, SQL, and Power BI. Developed cloud-based data pipelines, performed manufacturing KPI analysis, and created interactive dashboards for production, inventory, machine, and supplier performance monitoring.  (~235 characters)
+# Smart Manufacturing Operations Control Tower
+
+## Architecture
+
+![Architecture](images/architecture.png)
+
+## AWS S3 Data Lake
+
+![S3](images/s3_bucket.png)
+
+## AWS Glue Crawler
+
+![Glue](images/glue_crawler.png)
+
+## Athena Query Results
+
+![Athena](images/athena_query.png)
+
+## Production Dashboard
+
+![Production](images/production_dashboard.png)
+
+## Inventory Dashboard
+
+![Inventory](images/inventory_dashboard.png)
+
+## Machine Dashboard
+
+![Machine](images/machine_dashboard.png)
+
+## Supplier Dashboard
+
+![Supplier](images/supplier_dashboard.png)
