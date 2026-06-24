@@ -1,0 +1,501 @@
+supplier_id,supplier_name,country
+1,Krause-Escobar,Germany
+2,Lopez-Romero,China
+3,Hernandez-Lewis,India
+4,Baker-Williams,Germany
+5,Mejia Inc,Japan
+6,Smith Ltd,China
+7,"Ramos, Ross and Perez",Germany
+8,"Bartlett, Lucas and Kane",China
+9,"Murray, Johnson and Vaughn",China
+10,Johnson-Cole,Germany
+11,Deleon and Sons,Germany
+12,Allen and Sons,USA
+13,Lester Inc,USA
+14,"Raymond, Russo and Oconnor",Germany
+15,"Chan, Ramos and Payne",Japan
+16,Richard-Figueroa,Germany
+17,"Gardner, Carey and Howard",Japan
+18,"Hardy, Miller and Smith",Germany
+19,Blevins LLC,China
+20,Wallace Ltd,Germany
+21,"Robbins, Stephens and Johnson",Germany
+22,"Forbes, Nguyen and Kim",Germany
+23,Espinoza Group,China
+24,Jones-Morris,Japan
+25,Miranda-Williams,USA
+26,"Baker, Stewart and Price",Japan
+27,Alvarez-Brown,Germany
+28,Leach Ltd,India
+29,"Macdonald, Morrison and Fischer",Japan
+30,Stanley Ltd,Japan
+31,Anderson Group,Germany
+32,"Lambert, Elliott and Johnson",India
+33,Martin-Stanley,China
+34,Hicks Group,India
+35,Mosley-Smith,Germany
+36,Diaz-Benton,India
+37,"Camacho, Snyder and Mcgee",USA
+38,"Wood, Williams and Park",USA
+39,Solomon PLC,Germany
+40,Little Ltd,USA
+41,Nelson PLC,India
+42,Spencer PLC,Germany
+43,"Becker, Hughes and Torres",Germany
+44,Foster-Reeves,Germany
+45,"West, Martin and Cooper",Germany
+46,"Fowler, Sims and Alvarez",Germany
+47,"Davis, Vazquez and Campos",Germany
+48,"Ochoa, Juarez and Johnson",Germany
+49,Reyes Ltd,USA
+50,"James, Cochran and Bryant",India
+51,Cochran-Warner,China
+52,Moyer-Wilkins,Germany
+53,Ware-Bailey,China
+54,"Ruiz, Byrd and Jackson",Germany
+55,"Hamilton, Soto and Green",Germany
+56,Lucas-Thompson,USA
+57,"Long, Howe and Callahan",Germany
+58,Rogers LLC,Japan
+59,Carroll and Sons,China
+60,"Brown, Flores and Weaver",Germany
+61,Morales-Turner,China
+62,Gonzales-Marquez,China
+63,"Johnson, Scott and Taylor",India
+64,Jackson LLC,India
+65,Weeks-Nguyen,India
+66,Stewart-Cruz,India
+67,Sanchez Ltd,Japan
+68,Johnson-Wright,Japan
+69,Thomas Group,USA
+70,Price and Sons,China
+71,"Pham, Lee and Hansen",Germany
+72,"Guzman, Smith and Navarro",USA
+73,"Conrad, Cooper and Fuller",China
+74,Clark-Lin,USA
+75,"Duncan, Lopez and Gonzales",India
+76,Gibson Group,China
+77,Young-Mills,Japan
+78,Curry and Sons,China
+79,Vance Ltd,USA
+80,"Davies, Smith and Marquez",China
+81,"Morrison, Neal and Mccarthy",China
+82,"Murray, Shelton and Contreras",India
+83,Carey PLC,USA
+84,Cline PLC,India
+85,Tyler-Lane,China
+86,Espinoza-Smith,Japan
+87,Collins PLC,India
+88,Garcia-Conner,China
+89,"Gonzales, Graves and Collins",India
+90,Banks-Hess,USA
+91,Holt Group,China
+92,Rose-Ferguson,India
+93,"Morgan, Lowe and Martin",Germany
+94,Preston-Stone,USA
+95,Christian Ltd,China
+96,"Watson, Perry and Smith",China
+97,Miller Inc,China
+98,Ellison Ltd,India
+99,Sparks Ltd,Germany
+100,Griffin-Gardner,India
+101,Hood-Gonzalez,Japan
+102,Clark-Cross,Germany
+103,"Jones, Mcclure and Stephens",USA
+104,"Davis, Solomon and Thornton",Germany
+105,Taylor Ltd,China
+106,Mitchell PLC,China
+107,"Ramirez, Williams and Reed",Japan
+108,"Mccarthy, Evans and Henderson",China
+109,Blackburn Ltd,Germany
+110,"Donaldson, Wolfe and Robinson",Japan
+111,"Allen, Rogers and Austin",USA
+112,Huffman Inc,China
+113,Allen-Washington,Germany
+114,Jones-Shaw,India
+115,Chapman and Sons,Japan
+116,Smith Ltd,Japan
+117,Greer-Murray,Germany
+118,"Ellis, Stafford and Gardner",Japan
+119,Mason-Jones,USA
+120,Bernard-Stewart,China
+121,Castillo-Vega,Japan
+122,"Rodriguez, Duffy and Campbell",China
+123,"Lawson, Petersen and Warner",Japan
+124,Chavez and Sons,USA
+125,Kelley-Liu,Japan
+126,Greene and Sons,Germany
+127,Diaz-Flores,Germany
+128,"Coleman, Shah and Garcia",China
+129,Williams and Sons,India
+130,"Hawkins, Palmer and Wright",Germany
+131,"Mann, Gould and Jones",USA
+132,"Chapman, Dean and Brooks",Japan
+133,Tucker-Lam,Germany
+134,Harrison-Le,Germany
+135,Norton PLC,India
+136,Vang Ltd,Germany
+137,Cummings Ltd,USA
+138,Sanchez-Holland,Germany
+139,Reynolds Inc,India
+140,Wright-Chavez,China
+141,"Hernandez, Robinson and Camacho",India
+142,"Murphy, Contreras and Ramos",USA
+143,Rodriguez LLC,India
+144,Castillo Ltd,Germany
+145,Aguilar-Moran,Germany
+146,Phillips-Warren,Germany
+147,Bentley-Mckenzie,China
+148,Baxter Inc,USA
+149,Lynch-Rodriguez,China
+150,"Conway, Phillips and Sims",China
+151,"Lindsey, Young and Perry",Japan
+152,"Clark, Sanchez and Williams",Japan
+153,Moses-Dean,China
+154,Lewis Inc,India
+155,"Wolf, Collins and Miller",China
+156,Williams Inc,Japan
+157,"Wilson, Alvarado and Leonard",China
+158,Willis and Sons,Germany
+159,"Fischer, Smith and Young",Germany
+160,Freeman Group,China
+161,Williams Inc,India
+162,Smith-Mcknight,Germany
+163,Phillips Inc,Japan
+164,Lopez Group,Japan
+165,"Curtis, Reed and Arias",India
+166,"Rose, Roberts and Davis",Germany
+167,"Bowman, Burnett and Anderson",Japan
+168,"Rodriguez, Hall and Lee",Japan
+169,Lee-Rodriguez,China
+170,Martin Ltd,Japan
+171,Pearson-Francis,China
+172,Salinas-Harvey,USA
+173,Fisher Ltd,China
+174,"Arnold, Bradley and Moore",Germany
+175,Edwards-Daniels,India
+176,"Stewart, Montgomery and Sutton",China
+177,Hall Inc,USA
+178,"Harris, Mcintyre and Waller",India
+179,Smith LLC,China
+180,"Manning, Shannon and Martinez",USA
+181,Medina-Mckay,Germany
+182,"Massey, Wright and Rodriguez",China
+183,Simmons-Jackson,Germany
+184,"Moore, Calhoun and Robles",Germany
+185,Stephenson Inc,China
+186,Spears-Huang,USA
+187,White-Marquez,China
+188,Murphy-Gallegos,Germany
+189,Jackson Ltd,India
+190,"Moore, Morton and Ford",Germany
+191,Henry-Herman,India
+192,Hernandez-Sandoval,Japan
+193,Castro-Zhang,USA
+194,Mccarty LLC,India
+195,Munoz LLC,USA
+196,"Bell, Gordon and Cook",USA
+197,"Allen, Anderson and Carter",Japan
+198,Perez-Kelly,Germany
+199,"Randall, Hull and Brown",Japan
+200,Briggs Ltd,USA
+201,Macdonald Inc,Japan
+202,Morton Group,China
+203,"Knox, Cooper and Rivers",USA
+204,"Davidson, Cunningham and Cervantes",India
+205,Holmes-Tyler,India
+206,"Rice, Hanna and Carlson",China
+207,West Inc,India
+208,Davis Inc,Germany
+209,Patterson PLC,India
+210,"Williams, Thomas and Hudson",USA
+211,Miller-Dean,Japan
+212,"Robinson, Taylor and Smith",Germany
+213,Gill-Warren,USA
+214,"Parker, Floyd and Smith",Germany
+215,Smith-Kirk,India
+216,Williamson and Sons,USA
+217,Davis and Sons,Germany
+218,Solis-Mendoza,USA
+219,Phelps Group,Germany
+220,"Johnson, Jones and Bryant",Japan
+221,Cummings-Lowe,Germany
+222,"Martin, White and Stanley",China
+223,"Washington, Pace and Johnson",China
+224,"Smith, Strickland and Brady",China
+225,Parker-Ayala,India
+226,"Hernandez, Hall and Brown",USA
+227,Mcintyre-George,Japan
+228,Park Inc,China
+229,Jensen LLC,India
+230,Williams-Davis,China
+231,"Perkins, Warren and Jacobson",Germany
+232,"Martin, Anderson and Brown",USA
+233,Frazier-Lopez,Germany
+234,"Gibson, Bond and Anderson",USA
+235,Bell and Sons,USA
+236,"Perez, Johnson and Martinez",Japan
+237,"Robinson, Calderon and Miller",USA
+238,Hunt and Sons,Germany
+239,Vargas Inc,USA
+240,Garcia Ltd,Japan
+241,"Brown, Padilla and Lee",USA
+242,Gordon-Hanna,Germany
+243,"Rodriguez, Arias and Kirk",USA
+244,"Dillon, Rivera and Cook",India
+245,Giles PLC,Japan
+246,Willis and Sons,USA
+247,"Vasquez, Maddox and Mcdonald",Japan
+248,"Holt, Davis and Duncan",India
+249,Hernandez Ltd,Japan
+250,"Garrison, Crawford and Joseph",China
+251,"French, Green and Willis",USA
+252,Davis-Boone,Japan
+253,Koch-Rowe,Germany
+254,Anderson-Perez,USA
+255,Ray-Sanford,USA
+256,"Morgan, Ross and Hall",USA
+257,"Hoffman, Shepard and Sanders",Germany
+258,"Mcbride, Kennedy and Cross",Japan
+259,Jensen-Smith,India
+260,Davis-Williamson,India
+261,King Inc,China
+262,Johnston-Macias,China
+263,Martinez-Blankenship,China
+264,Schneider LLC,Japan
+265,Morrison Inc,Germany
+266,Hurst-Phillips,Japan
+267,"Edwards, Wyatt and Carey",Germany
+268,"Smith, Sanchez and Rosales",China
+269,"Thomas, Sanchez and Vance",China
+270,Henson-Villegas,China
+271,Tran-Douglas,Germany
+272,Fischer PLC,India
+273,James Group,USA
+274,"Brock, Parks and Edwards",China
+275,Gordon LLC,USA
+276,Meyer PLC,Germany
+277,Turner-Bolton,India
+278,"Walker, Lopez and Jones",India
+279,Hill Ltd,Japan
+280,Howard and Sons,Germany
+281,"Frey, Anderson and Herrera",Germany
+282,"Salinas, Larson and Rivera",Japan
+283,Garcia and Sons,Japan
+284,Bowen-Becker,Germany
+285,Lee-Stark,China
+286,Murray Inc,USA
+287,Smith LLC,Germany
+288,"Lee, Greene and Parker",Japan
+289,"Castaneda, Hunter and Martin",China
+290,Mora-Oliver,USA
+291,Morris-Roberts,India
+292,Rivera-Willis,China
+293,Carlson LLC,Germany
+294,Mccall Inc,China
+295,Mcgrath-Williams,India
+296,"Andrews, Gonzalez and Johnson",Japan
+297,"Mclean, White and Henderson",Germany
+298,Garza Inc,China
+299,"Alvarado, Sherman and Robinson",USA
+300,Berg Inc,India
+301,Guerrero-Jordan,USA
+302,"Blackwell, Barrett and Ward",China
+303,King-Stein,India
+304,"Wilkinson, Holloway and Monroe",China
+305,"Martinez, Parker and Davis",Japan
+306,Davis Group,Germany
+307,"Underwood, Sanders and Phillips",Japan
+308,Brown-Atkinson,China
+309,Stewart-Russell,India
+310,"Snyder, Wright and Smith",Japan
+311,"Singh, Knight and Morgan",USA
+312,King and Sons,India
+313,Simon-Vargas,Japan
+314,Wright-Boyd,USA
+315,Matthews Group,Germany
+316,"Everett, Berry and Evans",Germany
+317,Snyder Group,Japan
+318,Wang Group,Japan
+319,Holloway-Patterson,India
+320,Patel LLC,Japan
+321,"Jordan, Marquez and Bauer",India
+322,Peterson Inc,China
+323,Lane-Campbell,Germany
+324,"Huang, Harris and Miller",India
+325,"Riggs, Erickson and Gallagher",Germany
+326,"Benson, Lozano and Klein",Japan
+327,"Taylor, Mckinney and Mcdaniel",India
+328,Sullivan-Kelley,India
+329,Collins-Lopez,India
+330,"Franklin, Lee and Ross",China
+331,"Scott, Page and Price",Japan
+332,Mccoy and Sons,India
+333,Austin-Scott,China
+334,Hill LLC,India
+335,Ritter and Sons,China
+336,Salinas-Hernandez,India
+337,"Summers, Macias and Rosario",India
+338,Vaughan-Palmer,China
+339,Allison-Knapp,USA
+340,"King, Maynard and Saunders",India
+341,Paul Ltd,Germany
+342,Lopez-Vargas,China
+343,"Watkins, Forbes and Hicks",China
+344,"Hays, Hayes and Wright",Japan
+345,"Steele, Edwards and Davis",China
+346,Robbins-Carter,Japan
+347,"Griffith, Holden and Johnson",USA
+348,"Pruitt, Warren and Mitchell",Japan
+349,Williams-Cook,Japan
+350,Gonzales Group,Japan
+351,Watson Group,USA
+352,Williams Inc,Japan
+353,Mcpherson-Butler,Japan
+354,Curry and Sons,India
+355,"Spears, Wells and Myers",USA
+356,Dunn-Cook,China
+357,Stewart-Clark,India
+358,Jacobs-Richardson,USA
+359,"Ortiz, Conrad and Richardson",USA
+360,White-Craig,USA
+361,Lane PLC,India
+362,Fields PLC,Japan
+363,Gonzalez-Lawson,Germany
+364,Johnson LLC,Japan
+365,Merritt LLC,Germany
+366,"Benson, Wright and Fuentes",USA
+367,"Le, Arnold and Williams",Japan
+368,"Moore, Bentley and Moore",USA
+369,"Gilbert, Dillon and Howard",Germany
+370,"Gutierrez, Jimenez and Ayala",India
+371,Santos Inc,China
+372,Gomez Inc,Germany
+373,"Blake, Jackson and Olson",Germany
+374,Myers-Robertson,Germany
+375,Todd-Morrison,India
+376,Patel-Phillips,India
+377,"Johnson, Rodriguez and Haynes",Japan
+378,"Dunn, Armstrong and Ray",USA
+379,Barton PLC,China
+380,"Long, White and Smith",Japan
+381,Snyder-Cowan,Germany
+382,Mcbride-Kim,India
+383,Murray-Ortiz,China
+384,Jones-Williams,Japan
+385,Mayo Group,China
+386,King and Sons,China
+387,Richards Inc,Japan
+388,Nguyen-Roman,Germany
+389,"Russell, Buckley and Ball",Japan
+390,Irwin-Hebert,Germany
+391,Tucker Group,Japan
+392,Rodriguez Inc,India
+393,"Lewis, Cooper and Johnson",India
+394,Jensen-King,Germany
+395,Matthews Group,Japan
+396,Aguirre-Edwards,India
+397,"Rivera, James and Johnson",Germany
+398,Tucker Inc,USA
+399,Johns-Weaver,USA
+400,Cross-Hicks,Japan
+401,Gonzalez and Sons,China
+402,Miller-Garrett,India
+403,Ramirez-Smith,Japan
+404,"Blake, Hansen and Hall",India
+405,Nichols-Goodwin,India
+406,Gardner Inc,India
+407,Bryant and Sons,Germany
+408,Payne LLC,Japan
+409,Bell-Phillips,China
+410,"Perry, Hanson and Kim",USA
+411,Fischer-Johnson,Japan
+412,"Estrada, Swanson and Mccoy",Germany
+413,Matthews and Sons,USA
+414,Wood-Howard,China
+415,Anderson-Pollard,USA
+416,"Erickson, Frazier and Jones",India
+417,"James, Sanchez and Tucker",USA
+418,Garcia Inc,Germany
+419,"Hogan, Dixon and Thomas",Germany
+420,"Henry, Ferguson and Sanchez",India
+421,Johnson-Mueller,India
+422,"Johnson, Hansen and Gonzales",China
+423,"Rodriguez, Mccarthy and Gibbs",USA
+424,Leonard Ltd,India
+425,"Richmond, Castro and Hood",Germany
+426,Morris-Long,India
+427,"Beltran, Moore and Gross",USA
+428,Rodriguez-Boyd,Germany
+429,Sanchez-Mathews,Germany
+430,Welch-Thompson,India
+431,"Olsen, Watts and Ford",USA
+432,"Daniel, Parks and Jones",Japan
+433,Griffin Inc,China
+434,Mcintosh-Bennett,India
+435,Quinn LLC,Germany
+436,Montgomery Inc,India
+437,Wheeler-Thomas,Japan
+438,Salinas PLC,USA
+439,"Goodwin, Norton and Bennett",India
+440,"Fischer, Taylor and Williams",Japan
+441,"Werner, Phillips and Walker",USA
+442,"Perez, Sanchez and Fuller",Japan
+443,Mason-Johnson,China
+444,"Mathis, Valdez and Morgan",Germany
+445,"Marks, Smith and Wheeler",USA
+446,Martin-Estrada,Germany
+447,"Martinez, Burch and Torres",China
+448,"Perry, Anderson and Gomez",China
+449,"Sullivan, Myers and Campbell",China
+450,"Rodgers, Wilson and Hooper",China
+451,"Wolfe, Wallace and Chang",Germany
+452,Barnes-Ballard,USA
+453,Lambert Group,China
+454,Gonzalez Group,USA
+455,Perkins PLC,USA
+456,Hall Group,China
+457,Wall-Price,India
+458,"Price, Zhang and Joseph",Germany
+459,Erickson Ltd,Japan
+460,Lam and Sons,Germany
+461,"Johnson, Johnson and Gardner",India
+462,Chavez Group,India
+463,"Golden, Barron and Watson",Germany
+464,"Meyers, Vincent and Rodriguez",China
+465,Smith Ltd,China
+466,"Thomas, Mcclure and Anderson",USA
+467,Vaughn-Smith,Japan
+468,Fields Inc,India
+469,"Hunt, Owens and Myers",India
+470,Cruz and Sons,China
+471,Wells-Lawson,USA
+472,Obrien PLC,Germany
+473,"Gonzalez, Woods and Garcia",Germany
+474,"Holmes, Russell and Tate",Germany
+475,Nichols Inc,China
+476,Shepherd-Velazquez,China
+477,Watson Inc,India
+478,Miller-Berry,Japan
+479,Rodriguez Inc,Japan
+480,"Oliver, Jackson and Davis",Japan
+481,Garcia-Tran,Japan
+482,Tran Inc,Japan
+483,Miller Ltd,India
+484,Alexander-Brooks,India
+485,Booth-Martin,China
+486,"Kennedy, Perry and Wilson",India
+487,"Dyer, Henson and Lee",USA
+488,Jimenez Ltd,Japan
+489,"Mclean, Smith and Harris",India
+490,Bates-Jordan,Germany
+491,Lane-Phillips,India
+492,"King, Solomon and West",Germany
+493,Bailey Ltd,Germany
+494,"Hudson, Cannon and Hamilton",India
+495,Kane-Ward,Germany
+496,"Clark, Willis and Martinez",USA
+497,Lozano PLC,USA
+498,Ellis-Snyder,Japan
+499,Lynch-Johnson,India
+500,Baldwin Ltd,India
