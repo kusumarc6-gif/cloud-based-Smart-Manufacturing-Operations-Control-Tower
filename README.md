@@ -1,33 +1,127 @@
 # Smart Manufacturing Operations Control Tower
 
+## Project Overview
+
+The Smart Manufacturing Operations Control Tower is a cloud-based analytics solution designed to provide centralized visibility into manufacturing operations. The project integrates production, inventory, machine performance, and supplier delivery data using AWS Data Lake technologies and Power BI dashboards.
+
+The solution enables business users to monitor operational KPIs, analyze production efficiency, identify downtime trends, track inventory levels, and evaluate supplier performance through interactive visualizations.
+
+---
+
+## Technology Stack
+
+### AWS Services
+
+* Amazon S3
+* AWS Glue Crawler
+* AWS Glue Data Catalog
+* Amazon Athena
+
+### Analytics & Visualization
+
+* SQL
+* Microsoft Power BI
+
+---
+
 ## Architecture
 
-![Architecture](images/architecture.png)
+Manufacturing Data → Amazon S3 → AWS Glue Crawler → Glue Data Catalog → Amazon Athena → Power BI Dashboard
 
-## AWS S3 Data Lake
+---
 
-![S3](images/s3_bucket.png)
+## Datasets Used
 
-## AWS Glue Crawler
+* Factory
+* Product
+* Production
+* Machine
+* Machine Events
+* Inventory
+* Warehouse
+* Supplier
+* Supplier Delivery
 
-![Glue](images/glue_crawler.png)
+---
 
-## Athena Query Results
+## Key Features
 
-![Athena](images/athena_query.png)
+### Production Analytics
 
-## Production Dashboard
+* Production by Factory
+* Production by Shift
+* Defect Analysis
+* Downtime Monitoring
 
-![Production](images/production_dashboard.png)
+### Inventory Analytics
 
-## Inventory Dashboard
+* Current Stock Tracking
+* Low Stock Identification
+* Warehouse Distribution
 
-![Inventory](images/inventory_dashboard.png)
+### Machine Analytics
 
-## Machine Dashboard
+* Machine Status Monitoring
+* Event Trend Analysis
+* Factory-wise Performance
 
-![Machine](images/machine_dashboard.png)
+### Supplier Analytics
 
-## Supplier Dashboard
+* Delivery Performance
+* Delay Analysis
+* Supplier Evaluation
 
-![Supplier](images/supplier_dashboard.png)
+---
+
+## KPI Metrics
+
+### Production KPIs
+
+* Total Production Units
+* Total Defects
+* Downtime Minutes
+
+### Inventory KPIs
+
+* Current Stock
+* Reorder Monitoring
+* Low Stock Products
+
+### Machine KPIs
+
+* Total Machine Events
+* Machine Status Distribution
+
+### Supplier KPIs
+
+* Total Deliveries
+* Average Delay
+* Delayed Deliveries
+
+---
+
+## Business Impact
+
+* Centralized manufacturing reporting
+* Faster decision-making
+* Reduced manual analysis effort
+* Improved operational visibility
+* Scalable cloud-based analytics architecture
+
+---
+
+## Future Enhancements
+
+* Predictive Maintenance
+* Inventory Forecasting
+* Real-Time Streaming with Amazon Kinesis
+* ERP Integration
+* AI-Powered Manufacturing Insights
+
+---
+
+## Author
+
+**Kusuma Reddy**
+
+AWS | SQL | Power BI | Data Analytics | Cloud Data Engineering
