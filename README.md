@@ -122,6 +122,6 @@ Manufacturing Data → Amazon S3 → AWS Glue Crawler → Glue Data Catalog → 
 
 ## Author
 
-**Kusuma Reddy**
+**Kusuma  y**
 
 AWS | SQL | Power BI | Data Analytics | Cloud Data Engineering
